@@ -1,0 +1,12 @@
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB3_InformaticaEJN\01_CreacionDeUnProyecto\bin\Debug\01_CreacionDeUnProyecto.exe.config
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB3_InformaticaEJN\01_CreacionDeUnProyecto\bin\Debug\01_CreacionDeUnProyecto.exe
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB3_InformaticaEJN\01_CreacionDeUnProyecto\bin\Debug\01_CreacionDeUnProyecto.pdb
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB3_InformaticaEJN\01_CreacionDeUnProyecto\bin\Debug\01_CreacionDeUnProyecto.xml
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB3_InformaticaEJN\01_CreacionDeUnProyecto\obj\Debug\01_CreacionDeUnProyecto.vbproj.AssemblyReference.cache
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB3_InformaticaEJN\01_CreacionDeUnProyecto\obj\Debug\01_CreacionDeUnProyecto.vbproj.SuggestedBindingRedirects.cache
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB3_InformaticaEJN\01_CreacionDeUnProyecto\obj\Debug\_01_CreacionDeUnProyecto.Resources.resources
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB3_InformaticaEJN\01_CreacionDeUnProyecto\obj\Debug\01_CreacionDeUnProyecto.vbproj.GenerateResource.cache
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB3_InformaticaEJN\01_CreacionDeUnProyecto\obj\Debug\01_CreacionDeUnProyecto.vbproj.CoreCompileInputs.cache
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB3_InformaticaEJN\01_CreacionDeUnProyecto\obj\Debug\01_CreacionDeUnProyecto.exe
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB3_InformaticaEJN\01_CreacionDeUnProyecto\obj\Debug\01_CreacionDeUnProyecto.xml
+C:\Users\GAMER\Desktop\JR-GITHUB\VisualBasic\VB3_InformaticaEJN\01_CreacionDeUnProyecto\obj\Debug\01_CreacionDeUnProyecto.pdb
